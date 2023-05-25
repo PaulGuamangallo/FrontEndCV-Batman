@@ -1,0 +1,38 @@
+
+body{
+    background-color: gray;
+}
+
+header{
+    text-align: center;
+}
+
+main{
+    margin: 20px;
+    background-color: white;
+}
+
+h1{
+    background-color: rgb(85, 83, 83); 
+    color: rgb(56, 56, 231); 
+    text-align: center; 
+    text-size-adjust: 30; 
+}
+
+h2{
+    background-color: rgb(85, 83, 83);
+    color: rgb(56, 56, 231);    
+}
+.titleData{
+    font-weight: bolder;
+}
+.pData{
+    margin-left: 78px;
+}
+
+.blancSpace{
+    margin: 80px;
+}
+footer{
+    text-align: center;
+}
